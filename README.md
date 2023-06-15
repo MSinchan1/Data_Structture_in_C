@@ -1,4 +1,4 @@
-This is a Single linked list program in C.
+This is a Linked list program in C.
 Here 10 functions are present for different purposes.
 1.Create
 2.Display
