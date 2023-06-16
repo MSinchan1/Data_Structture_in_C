@@ -1,4 +1,4 @@
-This is a Linked list program in C.
+This is a Linked list program in C,Such as:-Single linked list,Doubly Linked list,Circular Linked List,Doubly Circular Linked List.
 Here 10 functions are present for different purposes.
 1.Create
 2.Display
